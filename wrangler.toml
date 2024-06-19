@@ -22,9 +22,9 @@ binding = "SUDOS"
 id = "1fcab4e76e4948ba9b728271fa51586d"
 
 [[d1_databases]]
-binding = "DB"
-database_name = "launchtube-testnet"
-database_id = "80e789b8-41a6-4741-aeca-62b4203661dc"
+binding = "DATABASE"
+database_name = "obsrvr-launchtube-testnet"
+database_id = "2cd89d5b-33a6-483d-80f5-65dfc31168ab"
 
 [build]
 command = "npm run build"
