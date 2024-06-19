@@ -19,7 +19,7 @@ new_classes = ["CreditsDurableObject", "SequencerDurableObject"]
 
 [[kv_namespaces]]
 binding = "SUDOS"
-id = "1fcab4e76e4948ba9b728271fa51586d"
+id = "648ee8e36d1d48eaa2708465e2f76852"
 
 [[d1_databases]]
 binding = "DATABASE"
