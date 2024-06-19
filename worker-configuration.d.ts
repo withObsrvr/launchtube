@@ -12,5 +12,5 @@ interface Env {
 	ENV: string;
 	CREDITS_DURABLE_OBJECT: DurableObjectNamespace;
 	SEQUENCER_DURABLE_OBJECT: DurableObjectNamespace;
-	DB: D1Database;
+	DATABASE: D1Database;
 }
